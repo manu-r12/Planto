@@ -11,11 +11,11 @@
 ### Here are the screenshots of the app
 
 
-  <img width="284" alt="Screenshot 2024-01-24 at 3 26 06 PM" src="https://github.com/manu-r12/Planto/assets/78516177/39bc3ae6-9bdc-489b-8878-e1f834e1a699">
-<img width="284" alt="Screenshot 2024-01-24 at 5 11 45 PM" src="https://github.com/manu-r12/Planto/assets/78516177/ab76f9ce-fe44-47f6-8076-4f2efb1fb1d6">
+  <img width="184" alt="Screenshot 2024-01-24 at 3 26 06 PM" src="https://github.com/manu-r12/Planto/assets/78516177/39bc3ae6-9bdc-489b-8878-e1f834e1a699">
+<img width="184" alt="Screenshot 2024-01-24 at 5 11 45 PM" src="https://github.com/manu-r12/Planto/assets/78516177/ab76f9ce-fe44-47f6-8076-4f2efb1fb1d6">
 
 
-  <img width="275" alt="Screenshot 2024-01-24 at 3 25 45 PM" src="https://github.com/manu-r12/Planto/assets/78516177/7c4c2172-c278-48e7-bf7d-6d8827c0d2c1">
+  <img width="184" alt="Screenshot 2024-01-24 at 3 25 45 PM" src="https://github.com/manu-r12/Planto/assets/78516177/7c4c2172-c278-48e7-bf7d-6d8827c0d2c1">
 
   
 
